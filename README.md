@@ -1,3 +1,5 @@
 # LeukemiaImageProcessing
 
-***************************run on Octave************************
+**octave syntax**
+
+
