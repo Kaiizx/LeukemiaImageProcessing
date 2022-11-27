@@ -1,5 +1,3 @@
 # LeukemiaImageProcessing
-NSC2020 Competition
-**octave syntax**
-
+NSC2020 Competition using octave syntax
 
